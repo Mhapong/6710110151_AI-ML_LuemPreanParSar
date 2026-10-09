@@ -1,0 +1,2 @@
+*.jsonl -text
+demo/autostart/* text eol=lf
